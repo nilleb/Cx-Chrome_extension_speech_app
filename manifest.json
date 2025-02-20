@@ -20,6 +20,8 @@
         "<all_urls>"
       ],
       "js": [
+        "polyfill.js",
+        "recognition.js",
         "content.js"
       ]
     }
